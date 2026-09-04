@@ -1,0 +1,24 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Visual Studio
+backend/*/bin/
+backend/*/obj/
+*.user
+*.suo
+
+# Flutter
+frontend/build/
+frontend/.dart_tool/
+frontend/.flutter-plugins
+frontend/.pub-cache/
+
+# Environment files
+.env
+*.env
+appsettings.Development.json
+
+# OS
+.DS_Store
+Thumbs.db
